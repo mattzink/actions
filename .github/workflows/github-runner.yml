@@ -1,4 +1,4 @@
-name: simple
+name: github-runner
 on: [workflow_dispatch]
 jobs:
   compile-service:
